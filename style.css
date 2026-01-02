@@ -1,0 +1,8 @@
+
+body { font-family: Arial; background:#eef2f7; }
+.container {
+ width:300px; margin:50px auto; background:#fff;
+ padding:20px; border-radius:6px;
+}
+li { cursor:pointer; }
+.completed { text-decoration: line-through; color:gray; }
